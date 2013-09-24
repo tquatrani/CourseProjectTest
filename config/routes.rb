@@ -25,6 +25,8 @@ Courseprojecttest::Application.routes.draw do
   #     end
   #   end
 
+  #  want to make a change but don't know what to change
+
   # Sample resource route with sub-resources:
   #   resources :products do
   #     resources :comments, :sales
